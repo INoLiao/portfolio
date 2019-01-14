@@ -1,0 +1,33 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            I-No Liao
+tagline:          ''
+description:      'Learn and live'
+url:              
+baseurl:          ""
+profile:          "/assets/ProfilePicture.jpg"
+
+author:
+  name:           'I-No Liao'
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/INoLiao
+ 
+plugins:
+  - jekyll-paginate
+  - redcarpet
+  - jekyll-gist
+  - pygments.rb
