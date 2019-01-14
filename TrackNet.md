@@ -1,7 +1,6 @@
 ---
 layout: myPage
 title: TrackNet
-permalink: {{ site.baseurl }}/:title
 ---
 
 # TrackNet: Deep Learning Network for Precise Ball Trajectory Tracking in Sports Applications
