@@ -12,7 +12,7 @@ tagline:          ''
 description:      'Learn and live'
 url:              
 baseurl:          /portfolio3
-profile:          "/assets/ProfilePicture.jpg"
+profile:          /assets/ProfilePicture.jpg
 
 author:
   name:           'I-No Liao'
