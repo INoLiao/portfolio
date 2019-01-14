@@ -12,7 +12,7 @@ tagline:          ''
 description:      'Learn and live'
 url:              
 
-# For GitHub commit
+# For GitHub
 baseurl:          /portfolio
 # For local development
 # baseurl:          /portfolio/
