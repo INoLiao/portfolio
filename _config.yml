@@ -28,8 +28,8 @@ author:
 # Custom vars
 version:          1.0.0
 
-github:           https://github.com/INoLiao
-  repo:           
+github:           
+  repo:           https://github.com/INoLiao
  
 plugins:
   - jekyll-paginate
