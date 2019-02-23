@@ -15,9 +15,9 @@ Ball trajectory data are one of the most fundamental and useful information in t
 
 ---
 
-<h3><a href="https://github.com/INoLiao" target="_blank">NBA Game Prediction System</a></h3>
+<h3><a href="https://github.com/INoLiao/nbaGamePrediction" target="_blank">NBA Game Prediction System</a></h3>
 
 ---
 
-<h3><a href="https://github.com/INoLiao" target="_blank">NBA Stats Crawler</a></h3>
+<h3><a href="https://github.com/INoLiao/nbaGamePrediction" target="_blank">NBA Stats Crawler</a></h3>
 
