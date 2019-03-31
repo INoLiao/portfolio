@@ -15,7 +15,7 @@ Ball trajectory data are one of the most fundamental and useful information in t
 
 ---
 
-<h3><a href="https://github.com/INoLiao/nbaGamePrediction" target="_blank">NBA Game Prediction System</a></h3>
+<h3><a href="https://github.com/INoLiao/nbaWebsite" target="_blank">NBA Game Prediction System</a></h3>
 <div align="justify">
 Predicting NBA games is not an easy task. Convential data analysis and statistic approaches are usually complicated and the accuracy is not high. In this work, a machine learning based method is proposed and the complete design flow is thoroughly introduced and explained. 8 single-stage machine learning models are trained and compared. More complex composite models such as voting mechanism and stacking method are also designed and elaborated. The proposed model reaches 76.8% accuracy on predicting all 2018 NBA playoffs. Furthermore, for Eastern Conference Final, Western Conference Finals, and Conference Finals, our model achieves extrodinary prediction accuracy of 85.7%, 71.4%, and 100%, respectively.
 </div>
