@@ -13,11 +13,11 @@ description:      'Learn and live'
 url:              
 
 # For GitHub
-baseurl:          /portfolio
+# baseurl:          /portfolio
 # For local development
 # baseurl:          /portfolio/
 # For domain inoliao.info
-# baseurl:          /inoliao.info
+url:              inoliao.info
 
 profile:          /assets/ProfilePicture.jpg
 
