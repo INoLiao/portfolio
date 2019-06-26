@@ -10,7 +10,6 @@ permalink:        pretty
 title:            I-No Liao
 tagline:          '廖以諾'
 description:      'Learn and live'
-url:              
 
 # For GitHub
 # baseurl:          /portfolio
@@ -24,7 +23,6 @@ resume:           /assets/INo_CV_190625.pdf
 
 author:
   name:           'I-No Liao'
-  url:            
 
 # paginate:         5
 
