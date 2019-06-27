@@ -15,6 +15,6 @@ nav_order: 3
 - Yu-Jiu Wang, <strong>I-No Liao</strong>, Chao-Han Tsai, Chatrpol Pakasiri, "A Millimeter-Wave In-Phase Gate-Boosting Rectifier", <em>IEEE Trans. Microw. Theory Tech.</em>, vol. 62, no. 11, pp. 2768-2783, Nov. 2014.
 
 <h3>Patents</h3>
-
-- Po-Sen Tseng, Wei-Kai Chang, <strong>I-No Liao</strong>, Tzyuan Shiu, Hsin-Hung Chen, Caiyi Wang, "Adaptive Power Amplifier Supply with Pre-distortion Mechanism", U.S. Patent US20170214370A1, July. 27, 2017.
-- Yu-Jiu Wang, <strong>I-No Liao</strong>, Chao-Han Tsai, Chatrpol Pakasiri, "Current-rectifying device, gate-boosting rectifier and method of permitting current to flow in one direction when driven by AC input voltage", U.S. Patent US20150194907A1, July. 9, 2015.
+- Ching-Shyang Maa, Chun-Hsien Peng, Hua-Lung Yang, <strong>I-No Liao</strong>, Chen-Jui Hsu, Jen-Yang Liu, "Method of reducing memory effect of power amplifier", U.S. Patent US20180331662A1, Nov. 15, 2018.
+- Po-Sen Tseng, Wei-Kai Chang, <strong>I-No Liao</strong>, Tzyuan Shiu, Hsin-Hung Chen, Caiyi Wang, "Adaptive Power Amplifier Supply with Pre-distortion Mechanism", U.S. Patent US9985590B2, May 29, 2018.
+- Yu-Jiu Wang, <strong>I-No Liao</strong>, Chao-Han Tsai, Chatrpol Pakasiri, "Current-rectifying device, gate-boosting rectifier and method of permitting current to flow in one direction when driven by AC input voltage", U.S. Patent US9515571B2, Dec. 6, 2016.
