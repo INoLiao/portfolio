@@ -15,7 +15,7 @@ Ball trajectory data are one of the most fundamental and useful information in t
 
 ---
 
-<h3><a href="{{ site.baseurl }}{{ site.ppTrackNet }}" target="_blank">TrackNet Flow Optimization by Parallel Programming</a></h3>
+<h3><a href="https://inoliao.github.io/ppTrackNetWebsite/" target="_blank">TrackNet Optimization by Parallel Programming</a></h3>
 
 <div align="justify">
 This project exploits the power of parallelism to speedup TrackNet, a deep learning neural network capable of accurately tracking tiny fast-moving objects. An actual 10-minute badminton competition broadcast video is analyzed. 18,243 frames are processed with parallelism mechanism. For Task I: Frame Retrieval from Video, 6-core multiprocessing achieves 2.73 speedup and the total saved time is 344.59 seconds. For Task II: Generating Heatmaps, 6-core multiprocessing achieves as high as 3.97 speedup and the total saved time is 2227.09 seconds. For Task III: TrackNet Model Evaluation, 6-core multiprocessing achieves 1.47 speedup and the total saved time is 17.22 seconds. With parallel programming, both image pre-processing and post-preprocessing processes are significantly accelerated, making the entire object tracking flow much more efficient than before.

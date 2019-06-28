@@ -35,7 +35,7 @@ nav_order: 3
 ---
 
 <h3><a href="https://github.com/INoLiao/NCTU_2018SpringDM" target="_blank">Data Mining</a></h3>
-- <h4>Association Rules - Interpretations of Weather Data and Power Plant Data in Taiwan</h4>
+- <h4>Association Rules - Interpretations of Weather Data and Power Plant Data of Taiwan</h4>
 	<div align="justify">For both applications, the FP-Growth algorithm is applied for mining the association rules among interesting parameters. For weather application, the association rules among temperature, humidity, wind speed, pressure, and time are analyzed. For power plant data, the relationship of net electricity usage of northern, central, southern, and eastern Taiwan is dug out. Interesting interpretations and insights are provided in this task.</div>
 - <h4>Clustering - Analysis of PM2.5 in Taiwan</h4>
 	<div align="justify">Analyze the PM2.5 data in Taiwan using clustering algorithms. Both K-Means and DBSCAN (Density-Based Spatial Clustering of Applications with Noise) are adopted so that proper comparisons between these two algorithms can be analyzed.</div>
