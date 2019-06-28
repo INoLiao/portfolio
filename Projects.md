@@ -15,11 +15,22 @@ Ball trajectory data are one of the most fundamental and useful information in t
 
 ---
 
+<h3><a href="{{ site.baseurl }}{{ site.ppTrackNet }}" target="_blank">TrackNet Flow Optimization by Parallel Programming</a></h3>
+
+<div align="justify">
+This project exploits the power of parallelism to speedup TrackNet, a deep learning neural network capable of accurately tracking tiny fast-moving objects. An actual 10-minute badminton competition broadcast video is analyzed. 18,243 frames are processed with parallelism mechanism. For Task I: Frame Retrieval from Video, 6-core multiprocessing achieves 2.73 speedup and the total saved time is 344.59 seconds. For Task II: Generating Heatmaps, 6-core multiprocessing achieves as high as 3.97 speedup and the total saved time is 2227.09 seconds. For Task III: TrackNet Model Evaluation, 6-core multiprocessing achieves 1.47 speedup and the total saved time is 17.22 seconds. With parallel programming, both image pre-processing and post-preprocessing processes are significantly accelerated, making the entire object tracking flow much more efficient than before.
+</div>
+
+---
+
 <h3><a href="https://inoliao.github.io/nbaWebsite/" target="_blank">NBA Game Prediction System</a></h3>
 <div align="justify">
 Predicting NBA games is not an easy task. Conventional data analysis and statistic approaches are usually complicated and the accuracy is not high. In this work, a machine learning based method is proposed and the complete design flow is thoroughly introduced and explained. 8 single-stage machine learning models are trained and compared. More complex composite models such as voting mechanism and stacking method are also designed and elaborated. The proposed model reaches 76.8% accuracy on predicting all 2018 NBA playoffs. Furthermore, for the Eastern Conference Final, Western Conference Finals, and Conference Finals, our model achieves an extraordinary prediction accuracy of 85.7%, 71.4%, and 100%, respectively.
 </div>
+
 ---
 
 <h3><a href="https://github.com/INoLiao/nbaGamePrediction" target="_blank">NBA Stats Crawler</a></h3>
-
+<div align="justify">
+In order to predict NBA games, massive NBA stats data must be collected to train the machine learning models. During the NBA regular seasons and playoffs, box scores are updated every single day. Hence, to make data acquisition more efficient and convenient, the NBA Stats Crawler is developed. The crawler scrapes data from the <a href="https://stats.nba.com/teams/boxscores/" target="_blank">official NBA stats website</a> and saves the data as CSV files or in a database. Selenium simulates the humans' behavior of browsing websites and Beautiful Soup is exploited to parse the HTML and retrieve the desired information. With the crawler, both data acquisition and organization are all but a single command on the terminal, preventing enormous and tedious efforts on downloading tons of box scores manually.
+</div>
