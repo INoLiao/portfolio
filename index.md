@@ -27,8 +27,8 @@ In my leisure, I participate  in art activities. Art not only rejuvenates me fro
 - Visual Recognition
 
 <h3>Work Experience</h3>
-- Research Assitant in Advanced Database System Lab, National Chiao Tung University (2018 - 2019)
-- RF Algorithm/System Design Engineer in MediaTek Inc. (2014 - 2017)
+- Research Assitant at Advanced Database System Lab, National Chiao Tung University (2018 - 2019)
+- RF Algorithm/System Design Engineer at MediaTek Inc. (2014 - 2017)
 
 <h3>Education</h3>
 - Master of Computer Ssience, Rice University (2019 - Present)
