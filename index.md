@@ -10,7 +10,7 @@ nav_order: 1
 
 <h3>Biography</h3>
 <p align="justify">
-I am I-No Liao, currently a student pursuing Master of Computer Science degree at Rice University. My professional interests lie in areas of web development, database systems design, parallel programming, and machine learning. <strong>I am actively looking for 2020 summer internship opportunities as a Software Development Engineer.</strong></p>
+I am I-No Liao, currently a student pursuing Master of Computer Science degree at Rice University. My professional interests lie in areas of web development, database systems design, parallel programming, and machine learning. <strong>I am actively looking for 2020 summer internship opportunities in Software Development Engineer positions.</strong></p>
 
 <p align="justify">
 I was a research assistant in Advanced Database System Lab at National Chiao Tung University. My research focus was on large-scale image information retrieval, visual recognition, and deep learning. I was particularly keen on using artificial intelligence to enhance professional sports analysis so as to assist athletes in augmenting both on-court performance and off-court training.
