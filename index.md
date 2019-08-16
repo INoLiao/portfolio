@@ -21,10 +21,9 @@ In my leisure, I participate  in art activities. Art not only rejuvenates me fro
 </p>
 
 <h3>Professional Interests</h3>
-- Full Stack Web Development
+- Web Development
 - Database Systems Design
 - Machine Learning
-- Visual Recognition
 
 <h3>Work Experience</h3>
 - Research Assitant at Advanced Database System Lab, National Chiao Tung University (2018 - 2019)
