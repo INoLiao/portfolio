@@ -35,3 +35,6 @@ In my leisure, I participate  in art activities. Art not only rejuvenates me fro
 - Master of Computer Science, Rice University (2019 - Present)
 - M.S. in Electronics Engineering, National Chiao Tung University (2014)
 - B.S. in Electronics Engineering, National Chiao Tung University (2012)
+
+<h3>Contact Information</h3>
+- Email: il10@rice.edu
