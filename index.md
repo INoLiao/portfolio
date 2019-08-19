@@ -38,3 +38,4 @@ In my leisure, I participate  in art activities. Art not only rejuvenates me fro
 
 <h3>Contact Information</h3>
 - Email: il10@rice.edu
+- Phone: 832-206-4432
